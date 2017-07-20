@@ -1,4 +1,4 @@
-# deeplearning_handson
+# Deeplearningハンズオン用資料置き場
 Documents and ipynb files for deep learning hands on.
 
 ディープラーニングの入門用のスライドとjupyter用のファイルです。自分も初心者ですが、さらに全くの初心者に説明する用に作成しました。
